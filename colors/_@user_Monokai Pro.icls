@@ -4,7 +4,7 @@
     <property name="created">2019-05-09T18:11:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-20T21:00:59</property>
+    <property name="modified">2019-08-21T11:20:19</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -34,27 +34,24 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="403e41" />
-    <option name="FILESTATUS_ADDED" value="a9dc76" />
-    <option name="FILESTATUS_COPIED" value="a9dc76" />
-    <option name="FILESTATUS_DELETED" value="727072" />
-    <option name="FILESTATUS_HIJACKED" value="ffd866" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="727072" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
+    <option name="FILESTATUS_ADDED" value="ffc48c" />
+    <option name="FILESTATUS_COPIED" value="659d9a" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffc48c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="ab9df2" />
-    <option name="FILESTATUS_MODIFIED" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="78dce8" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="78dce8" />
-    <option name="FILESTATUS_SUPPRESSED" value="727072" />
-    <option name="FILESTATUS_SWITCHED" value="ab9df2" />
-    <option name="FILESTATUS_UNKNOWN" value="f59762" />
-    <option name="FILESTATUS_addedOutside" value="a9dc76" />
-    <option name="FILESTATUS_changelistConflict" value="f65f87" />
-    <option name="FILESTATUS_modifiedOutside" value="78dce8" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
+    <option name="FILESTATUS_MERGED" value="65738e" />
+    <option name="FILESTATUS_MODIFIED" value="ffc48c" />
+    <option name="FILESTATUS_NOT_CHANGED" value="626669" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="ffc48c" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="ffc48c" />
+    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_SUPPRESSED" value="616161" />
+    <option name="FILESTATUS_SWITCHED" value="8978f" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_modifiedOutside" value="ffc48c" />
     <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="403e41" />
     <option name="INFORMATION_HINT" value="403e41" />
@@ -223,7 +220,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="c1c0c0" />
@@ -757,6 +754,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_BUILTIN_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ab9df2" />
@@ -780,11 +778,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="" />
-    <option name="HAML_FILTER" baseAttributes="" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
-    <option name="HAML_ID" baseAttributes="" />
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_ID" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HAML_RUBY_START">
       <value>
         <option name="FOREGROUND" value="939293" />
@@ -800,8 +798,8 @@
         <option name="FOREGROUND" value="ff6188" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
-    <option name="HAML_XHTML" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HOCON_BOOLEAN">
       <value>
         <option name="FOREGROUND" value="ab9df2" />
@@ -2954,7 +2952,7 @@
         <option name="FOREGROUND" value="78dce8" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
@@ -3195,8 +3193,8 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XPATH.XPATH_NAME" baseAttributes="" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="a9dc76" />
