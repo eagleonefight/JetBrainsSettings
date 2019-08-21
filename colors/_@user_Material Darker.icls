@@ -4,7 +4,7 @@
     <property name="created">2019-05-09T18:11:29</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-19T22:54:47</property>
+    <property name="modified">2019-08-21T09:23:58</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -2259,18 +2259,14 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
     <option name="PHP_CONCATENATION">
       <value />
     </option>
-    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
     <option name="PHP_HEREDOC_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
@@ -2280,7 +2276,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROPERTIES.KEY" baseAttributes="" />
     <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
@@ -2703,7 +2698,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="ffd700" />
