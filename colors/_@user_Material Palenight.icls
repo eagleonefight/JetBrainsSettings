@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Palenight" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-05-09T18:11:29</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-08-21T14:29:04</property>
+    <property name="created">2019-08-21T14:41:01</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.2.0.0</property>
+    <property name="modified">2019-08-21T14:42:52</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -70,29 +70,29 @@
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SEPARATOR_BELOW_COLOR" value="4e5579" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="424865" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ab47bc" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ab47bcc0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ab47bcc0" />
     <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="292d3e" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ab47bc" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ab47bc80" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ab47bc80" />
     <option name="ScrollBar.Mac.Transparent.trackColor" value="292d3e" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ab47bc" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ab47bc" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="292d3e" />
-    <option name="ScrollBar.Mac.thumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.Mac.thumbColor" value="ab47bc" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="ab47bcc0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ab47bcc0" />
     <option name="ScrollBar.Mac.trackColor" value="292d3e" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="ab47bc" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ab47bcc0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ab47bcc0" />
     <option name="ScrollBar.Transparent.hoverTrackColor" value="292d3e" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.Transparent.thumbColor" value="ab47bc" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="ab47bc80" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ab47bc80" />
     <option name="ScrollBar.Transparent.trackColor" value="292d3e" />
     <option name="ScrollBar.hoverThumbBorderColor" value="ab47bc" />
     <option name="ScrollBar.hoverThumbColor" value="ab47bc" />
     <option name="ScrollBar.hoverTrackColor" value="292d3e" />
-    <option name="ScrollBar.thumbBorderColor" value="ab47bc" />
-    <option name="ScrollBar.thumbColor" value="ab47bc" />
+    <option name="ScrollBar.thumbBorderColor" value="ab47bcc0" />
+    <option name="ScrollBar.thumbColor" value="ab47bcc0" />
     <option name="ScrollBar.trackColor" value="292d3e" />
     <option name="TEARLINE_COLOR" value="4e5579" />
     <option name="TOOLTIP" value="34324a" />
@@ -156,6 +156,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -976,6 +979,10 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.MODIFIER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -1005,11 +1012,10 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
-    <option name="JS.DECORATOR">
-      <value>
-        <option name="FOREGROUND" value="82aaff" />
-      </value>
-    </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -1021,6 +1027,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="ff4965" />
@@ -1033,6 +1040,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="34324a" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -1059,15 +1071,7 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_NAMED_ARGUMENT">
@@ -2166,7 +2170,12 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="607d8b" />
+        <option name="BACKGROUND" value="515772" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="515772" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">
@@ -2403,21 +2412,6 @@
     <option name="RHTML_SCRIPTLET_START_ID">
       <value>
         <option name="FOREGROUND" value="89ddff" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="ffd700" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="da70d6" />
-      </value>
-    </option>
-    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
@@ -2693,36 +2687,6 @@
     <option name="SPEL.QUALIFIED_TYPE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="ffd700" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="da70d6" />
-      </value>
-    </option>
-    <option name="SQUARE_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="87cefa" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
-      <value>
-        <option name="FOREGROUND" value="ffd700" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
-      <value>
-        <option name="FOREGROUND" value="da70d6" />
-      </value>
-    </option>
-    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
-      <value>
-        <option name="FOREGROUND" value="87cefa" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
