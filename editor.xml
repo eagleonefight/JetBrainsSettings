@@ -1,4 +1,10 @@
 <application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="USE_LIGATURES" value="true" />
+    <option name="SECONDARY_FONT_FAMILY" value="Source Code Pro" />
+  </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
@@ -20,5 +26,8 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
 </application>
