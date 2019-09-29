@@ -4,7 +4,7 @@
     <property name="created">2019-09-16T08:39:53</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.2.2.0.0</property>
-    <property name="modified">2019-09-29T09:06:21</property>
+    <property name="modified">2019-09-29T09:32:01</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -435,7 +435,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="38724f" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -471,7 +471,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="3d7258" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -558,7 +558,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="3e725a" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
