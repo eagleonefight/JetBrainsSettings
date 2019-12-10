@@ -1,6 +1,10 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Fira Code Retina" />
+    <option name="USE_LIGATURES" value="true" />
     <option name="SECONDARY_FONT_FAMILY" value="Hack Nerd Font" />
   </component>
 </application>
