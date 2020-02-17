@@ -93,8 +93,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581931112211" />
-              <option name="times" value="162" />
+              <option name="last" value="1581932455464" />
+              <option name="times" value="164" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,8 +149,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930938867" />
-              <option name="times" value="233" />
+              <option name="last" value="1581932457403" />
+              <option name="times" value="235" />
             </ActionSummary>
           </value>
         </entry>
@@ -197,8 +197,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930817399" />
-              <option name="times" value="38" />
+              <option name="last" value="1581932440727" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="com.intellij.find.impl.FindUIHelper$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581496326177" />
-              <option name="times" value="1" />
+              <option name="last" value="1581932448731" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -437,16 +437,16 @@
         <entry key="com.intellij.ui.ScrollingUtil$12">
           <value>
             <ActionSummary>
-              <option name="last" value="1581930826348" />
-              <option name="times" value="161" />
+              <option name="last" value="1581932458360" />
+              <option name="times" value="167" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.ui.ScrollingUtil$13">
           <value>
             <ActionSummary>
-              <option name="last" value="1581586622640" />
-              <option name="times" value="62" />
+              <option name="last" value="1581932444164" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
