@@ -221,8 +221,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581934777736" />
-              <option name="times" value="72" />
+              <option name="last" value="1582008499185" />
+              <option name="times" value="73" />
             </ActionSummary>
           </value>
         </entry>
@@ -351,6 +351,14 @@
             <ActionSummary>
               <option name="last" value="1581588210725" />
               <option name="times" value="22" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.find.SearchTextArea$ClearAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582008567908" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
