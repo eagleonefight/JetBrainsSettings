@@ -1076,6 +1076,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.m">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="MatlabSupport" />
+              <option name="myPluginName" value="Matlab Support" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.markdown">
           <value>
             <plugin>
@@ -2431,6 +2439,11 @@
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin 脚本" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="MatlabApplication">
+                    <value>
+                      <FeaturePluginData displayName="Matlab" pluginName="Matlab Support" pluginId="MatlabSupport" />
                     </value>
                   </entry>
                   <entry key="MavenRunConfiguration">
