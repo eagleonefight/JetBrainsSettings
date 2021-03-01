@@ -2540,7 +2540,7 @@
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
-                      <FeaturePluginData displayName="附加到 Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                      <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
                   <entry key="CompoundRunConfigurationType">
@@ -2555,7 +2555,7 @@
                   </entry>
                   <entry key="DatabaseScript">
                     <value>
-                      <FeaturePluginData displayName="数据库脚本" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -2585,7 +2585,7 @@
                   </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="HTTP 请求" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
+                      <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
                     </value>
                   </entry>
                   <entry key="JBossConfiguration">
@@ -2635,7 +2635,7 @@
                   </entry>
                   <entry key="JavascriptDebugType">
                     <value>
-                      <FeaturePluginData displayName="JavaScript 调试" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
+                      <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
                   <entry key="JetRunConfigurationType">
@@ -2656,6 +2656,11 @@
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Kotlin 脚本" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                    </value>
+                  </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="MatlabApplication">
@@ -2725,7 +2730,7 @@
                   </entry>
                   <entry key="TSqltConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="tSQLt 测试" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="tSQLt Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="TestNG">
@@ -2740,7 +2745,7 @@
                   </entry>
                   <entry key="UtPlSqlConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="utPLSQL 测试" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
+                      <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL for WebStorm" pluginId="com.intellij.database" />
                     </value>
                   </entry>
                   <entry key="WebLogic Instance">
