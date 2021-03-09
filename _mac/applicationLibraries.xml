@@ -36,5 +36,9 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/yargs" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
   </component>
 </application>
