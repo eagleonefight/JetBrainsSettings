@@ -32,7 +32,15 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/typescript-deferred" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="@types/update-notifier" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="@types/yargs" type="javaScript">
       <CLASSES />
       <SOURCES />
     </library>
