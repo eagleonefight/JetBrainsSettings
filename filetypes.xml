@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.bundle.map;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.eslintignore;.eslintrc.js;.git;.hg;.svn;.vscode;CVS;__pycache__;_svn;android;bundles;ios;upload_bundle_dir;vssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="RecommendedPurchasePage" type="JSX Harmony" />
+      <mapping ext="sdef" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="*.bundle.map" approved="true" type="Darcs file" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".bundle.map" approved="true" type="Darcs file" />
+      <removed_mapping pattern=".source.map" approved="true" type="Darcs file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="ignore" type="Git exclude file" />
+    </extensionMap>
+  </component>
+</application>
